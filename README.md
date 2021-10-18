@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on Python and Object Detection projects
 - 📫 How to reach me:
+  - E-mail: anderson.asantos3@gmail.com
   - Discord: andersonsantos3#0207
   - Facebook: https://www.facebook.com/andsantos3
   - Google Play Games: andersonsantos3
