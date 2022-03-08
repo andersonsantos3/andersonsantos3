@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andersonsantos3
-- 👀 I’m interested in Python, Convolutional Neural Networks and Small Object Detection
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on Python and Object Detection projects
+- 👀 I’m interested in Python, Convolutional Neural Networks, Small Object Detection, Named Entity Recognition and Annotation Tools
+- 🌱 I’m currently learning...
+- 💞️ I’m looking to collaborate on Python, Object Detection, Named Entity Recognition and Annotation Tools projects
 - 📫 How to reach me:
   - E-mail: anderson.asantos3@gmail.com
   - Discord: andersonsantos3#0207
